@@ -14,4 +14,4 @@ I have removed any unnecessary lines of css.
 Use HTML and CSS to create a main page for a company's website
 
 #Actual Behavior
-The page meets expectations, but there is an overuse of <div>s and many unnecessary lines of CSS.
+The page meets expectations, but there is an overuse of divs and many unnecessary lines of CSS.
